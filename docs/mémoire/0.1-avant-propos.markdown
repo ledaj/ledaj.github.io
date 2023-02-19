@@ -5,20 +5,33 @@ Title: Avant-propos - Quel rôle pour l’architecte dans des processus d’auto
 ## Avant-propos
 
 Ce mémoire trouve ses origines dans un événement dont je fus témoin l’année dernière.
+
 Je vivais à Naples depuis 6 mois et depuis quelque temps déjà je fréquentais régulièrement plusieurs friches squattées par des associations culturelles. C’est une pratique courante là-bas qui permet à ceux qui le souhaitent de se retrouver, d’échanger et d’apprendre beaucoup de choses. J’y ai suivi quelques cours de russe, j’y ai rencontré des réalisateurs de films, des philosophes, des musiciens et même un responsable politique du parti Syriza.
+
 En janvier 2015, un groupe d’activistes s’est emparé d’une friche inoccupée jusqu’alors : un hôpital psychiatrique judiciaire, sorte de prisons pour fous dont on n’osait pas dire le nom et qui ont arrêté de fonctionner il y a quelques années déjà. Cet hôpital était dans un état déplorable : pas d’eau, plus de câblage électrique et la plupart des vitres explosées.
+
 Cette forteresse inhabitée se situe au centre d’un quartier enclavé et marqué par la misère et la détresse humaine. L’intention était de rendre cet espace au quartier et d’en faire un pôle où le lien social pourrait redonner de l’espoir et réactiver l’ensemble du quartier. Ce groupe d’activistes s’y est installé puis barricadé à l’intérieur. Dès le lendemain, la police commençait à préparer l’expulsion des militants.
+
 La force de ce groupe se trouve dans le fait que dès la prise de la place forte, ils ont trouvé les ressources nécessaires pour ouvrir l’endroit aux riverains, organiser des manifestations artistiques (poésie, peinture, etc.), diffuser des matchs de foot et ouvrir les anciens espaces communs des détenus aux enfants du quartier.
+
 Je m’y suis présenté un jour de réunion populaire en me figurant que ces gens auraient sûrement besoin d’architecture et donc d’architectes pour les aider. Il m’est assez vite apparu que mes compétences durement acquises au sein de l’école ne m’étaient quasiment d’aucun secours quand justement je rencontrai des gens en détresse d’architecture pour répondre à leurs besoins vitaux. J’ai pris une pelle et comme tout le monde j’ai commencé à déblayer les gravas qui bouchaient les couloirs.
+
 Cela m’a fait réfléchir sur le rôle de l’architecture et de l’architecte tel qu’on me l’a toujours présenté à l’école d’architecture, et sur le gouffre entre mon niveau actuel et la réalité, alors que l’État considère ce niveau comme égal à un master 1.
+
 Suite à cette expérience, je me suis beaucoup questionné sur le rôle de l’architecte dans ces situations où les gens sont encore conscients et acteurs de leur espace vital. Ce collectif n’avait pas besoin de qui que ce soit. Ils construisaient eux-mêmes les conditions d’un futur plus heureux. Chacun des militants avait un bagage, plus ou moins modeste, et c’est l’ensemble de ces bagages mis bout à bout qui a permis de remettre en route les circuits électriques, de calfeutrer les fenêtres, de se procurer du chauffage et de remettre en état la salle de théâtre de la prison. Ces gens auto-construisaient, c’est-à-dire qu’ils construisaient pour eux-mêmes un espace.
 
-Cela m’a porté vers un autre souvenir, plus familial et plus enraciné chez moi : la maison de mes grands-parents. En Lorraine, dans les années 1970, mon grand-père l’a construite de ses mains. C’est pour moi la véritable maison rêvée au sens de Bachelard[^1. Cf. Gaston Bachelard, *La poétique de l’espace*, 1957], j’y ai fantasmé des portes vers d’autres mondes dans le grenier, des pièces magiques et des caves infinies et je pense que c’est sûrement elle qui m’a donné le goût de l’architecture.
+Cela m’a porté vers un autre souvenir, plus familial et plus enraciné chez moi : la maison de mes grands-parents. En Lorraine, dans les années 1970, mon grand-père l’a construite de ses mains. C’est pour moi la véritable maison rêvée au sens de Bachelard[^Bachelard]
+, j’y ai fantasmé des portes vers d’autres mondes dans le grenier, des pièces magiques et des caves infinies et je pense que c’est sûrement elle qui m’a donné le goût de l’architecture.
+
 Faire un mémoire sur l’autoconstruction représentait pour moi à la fois une quête des origines mais aussi un regard vers l’avenir. Je me suis attelé à questionner cette maison qui constitue un repère familial et une partie de mon histoire avec mes yeux d’architecte adulte, et à travers cette enquête j’ai exploré quelle place cette pratique constructive pourrait occuper dans ma vie professionnelle.
+
+[^bachelard]: Cf. Gaston Bachelard, *La poétique de l’espace*, 1957
 
 
 ---
 
+
 <-[Sommaire](mémoire-0.0-sommaire) | [Introduction](mémoire.0.2-intro) ->
+
 
 --- 
