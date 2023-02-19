@@ -1,8 +1,8 @@
 ---
 layout: page
-Title: Quel rôle pour l’architecte dans des processus d’autoconstruction ?
+Title: Avant-propos - Quel rôle pour l’architecte dans des processus d’autoconstruction ?
 ---
-# Avant-propos
+## Avant-propos
 
 Ce mémoire trouve ses origines dans un événement dont je fus témoin l’année dernière.
 Je vivais à Naples depuis 6 mois et depuis quelque temps déjà je fréquentais régulièrement plusieurs friches squattées par des associations culturelles. C’est une pratique courante là-bas qui permet à ceux qui le souhaitent de se retrouver, d’échanger et d’apprendre beaucoup de choses. J’y ai suivi quelques cours de russe, j’y ai rencontré des réalisateurs de films, des philosophes, des musiciens et même un responsable politique du parti Syriza.
@@ -13,12 +13,12 @@ Je m’y suis présenté un jour de réunion populaire en me figurant que ces ge
 Cela m’a fait réfléchir sur le rôle de l’architecture et de l’architecte tel qu’on me l’a toujours présenté à l’école d’architecture, et sur le gouffre entre mon niveau actuel et la réalité, alors que l’État considère ce niveau comme égal à un master 1.
 Suite à cette expérience, je me suis beaucoup questionné sur le rôle de l’architecte dans ces situations où les gens sont encore conscients et acteurs de leur espace vital. Ce collectif n’avait pas besoin de qui que ce soit. Ils construisaient eux-mêmes les conditions d’un futur plus heureux. Chacun des militants avait un bagage, plus ou moins modeste, et c’est l’ensemble de ces bagages mis bout à bout qui a permis de remettre en route les circuits électriques, de calfeutrer les fenêtres, de se procurer du chauffage et de remettre en état la salle de théâtre de la prison. Ces gens auto-construisaient, c’est-à-dire qu’ils construisaient pour eux-mêmes un espace.
 
-Cela m’a porté vers un autre souvenir, plus familial et plus enraciné chez moi : la maison de mes grands-parents. En Lorraine, dans les années 1970, mon grand-père l’a construite de ses mains. C’est pour moi la véritable maison rêvée au sens de Bachelard^[1. Cf. Gaston Bachelard, *La poétique de l’espace*, 1957], j’y ai fantasmé des portes vers d’autres mondes dans le grenier, des pièces magiques et des caves infinies et je pense que c’est sûrement elle qui m’a donné le goût de l’architecture.
+Cela m’a porté vers un autre souvenir, plus familial et plus enraciné chez moi : la maison de mes grands-parents. En Lorraine, dans les années 1970, mon grand-père l’a construite de ses mains. C’est pour moi la véritable maison rêvée au sens de Bachelard[^1. Cf. Gaston Bachelard, *La poétique de l’espace*, 1957], j’y ai fantasmé des portes vers d’autres mondes dans le grenier, des pièces magiques et des caves infinies et je pense que c’est sûrement elle qui m’a donné le goût de l’architecture.
 Faire un mémoire sur l’autoconstruction représentait pour moi à la fois une quête des origines mais aussi un regard vers l’avenir. Je me suis attelé à questionner cette maison qui constitue un repère familial et une partie de mon histoire avec mes yeux d’architecte adulte, et à travers cette enquête j’ai exploré quelle place cette pratique constructive pourrait occuper dans ma vie professionnelle.
 
 
 ---
 
-> <-[Sommaire](mémoire-0.0-sommaire) | [Introduction](mémoire.0.2-intro) ->
+<-[Sommaire](mémoire-0.0-sommaire) | [Introduction](mémoire.0.2-intro) ->
 
 --- 
