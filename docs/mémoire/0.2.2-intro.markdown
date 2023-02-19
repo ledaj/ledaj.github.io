@@ -46,4 +46,4 @@ Le deuxième outil est un diagramme de Venn à quatre courbes. Chacune représen
 
 Par comparaison, ces deux schémas nous permettront de repérer rapidement des similitudes et des éléments récurrents dans la répartition des compétences au sein des les chantiers d’autoconstruction que nous avons étudiés.
 
->La suite : [Intro : Cadre du sujet](0.2.3-intro)
+>La suite : [Intro (3/3) : Cadre du sujet](0.2.3-intro)

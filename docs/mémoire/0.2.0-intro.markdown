@@ -14,4 +14,6 @@ Mediadico[^1] nuance en expliquant que c’est une *“construction réalisée e
 [^1]: Dictionnaire numérique français, il est accessible [ici](https://www.notrefamille.com/dictionnaire/](http://www.notrefamille.com/dictionnaire/))
 
 
->La suite : [Intro : Qui s'est intéressé à l'autoconstruction ?](0.2.1-intro)	
+>La suite : [Intro (1/3) : Qui s'est intéressé à l'autoconstruction ?](0.2.1-intro)
+
+---

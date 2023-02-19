@@ -42,11 +42,11 @@ Ratia Rabemananoro propose en 2008 dans son mémoire *L’autoconstruction en Fr
 
 ## La définition de nouveaux rôles
 
-Yona Friedman dans son livre *L’architecture de Survie*^[^8] renverse la façon dont est produit le logement aujourd’hui et postule que l’habitant est seul capable de bien réaliser sa maison. Il propose deux nouveaux rôles pour l’architecte, radicalement différents de ceux qu’il possède aujourd’hui :
+Yona Friedman dans son livre *L’architecture de Survie*[^8] renverse la façon dont est produit le logement aujourd’hui et postule que l’habitant est seul capable de bien réaliser sa maison. Il propose deux nouveaux rôles pour l’architecte, radicalement différents de ceux qu’il possède aujourd’hui :
 
 [^8]: [Yona Friedman, *L’architecture de survie*, 1977]
 
-Premièrement, celui de *grammairien-enseignant de langage architectural*^[^9] chargé d’apprendre aux non-professionnels comment concevoir leurs espaces à partir d’un langage architectural simple. Deuxièmement, celui de conseiller en architecture qui, tel un médecin, dispenserait aux habitants-constructeurs des conseils lors de consultations payantes.
+Premièrement, celui de *grammairien-enseignant de langage architectural*[^9] chargé d’apprendre aux non-professionnels comment concevoir leurs espaces à partir d’un langage architectural simple. Deuxièmement, celui de conseiller en architecture qui, tel un médecin, dispenserait aux habitants-constructeurs des conseils lors de consultations payantes.
 
 [^9]: [Cf. idem, Op. Cit. p. 58]
 
@@ -70,4 +70,4 @@ Fort heureusement, il existe des lois fondamentales qui régissent la constructi
 
 À chacune de ces étapes les autoconstructeurs sont confrontés à des problèmes qui sont en fait des problèmes typiques de la réalisation d’un projet de construction. Et ils devront trancher à chaque étape en faveur de la solution qui leur parait la plus appropriée. Ce jugement de valeur, nous le retrouvons aussi dans la figure de l’architecte ; c’est le coeur de son métier, c’est ce qui détermine sa *compétence*.
 
->La suite : [Intro : Notions et outils convoqués](0.2.2-intro)	
+>La suite : [Intro (2/3) : Notions et outils convoqués](0.2.2-intro)	
