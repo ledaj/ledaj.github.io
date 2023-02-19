@@ -31,9 +31,9 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
+  full-width: true
 plugins:
   - jekyll-feed
-  full-width: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
