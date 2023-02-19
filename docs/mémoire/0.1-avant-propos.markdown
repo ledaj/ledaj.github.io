@@ -1,8 +1,9 @@
 ---
 layout: page
 ---
-
-> Quel rôle pour l’architecte dans des processus d’autoconstruction ?
+> **Quel rôle pour l’architecte dans des processus d’autoconstruction ?**
+>
+>[Sommaire](0.0-sommaire)
 
 # Avant-propos
 
@@ -24,12 +25,15 @@ Suite à cette expérience, je me suis beaucoup questionné sur le rôle de l’
 
 Cela m’a porté vers un autre souvenir, plus familial et plus enraciné chez moi : la maison de mes grands-parents. En Lorraine, dans les années 1970, mon grand-père l’a construite de ses mains. C’est pour moi la véritable maison rêvée au sens de Bachelard[^1], j’y ai fantasmé des portes vers d’autres mondes dans le grenier, des pièces magiques et des caves infinies et je pense que c’est sûrement elle qui m’a donné le goût de l’architecture.
 
-Faire un mémoire sur l’autoconstruction représentait pour moi à la fois une quête des origines mais aussi un regard vers l’avenir. Je me suis attelé à questionner cette maison qui constitue un repère familial et une partie de mon histoire avec mes yeux d’architecte adulte, et à travers cette enquête j’ai exploré quelle place cette pratique constructive pourrait occuper dans ma vie professionnelle.
-
 [^1]: Cf. Gaston Bachelard, *La poétique de l’espace*, 1957
 
+Faire un mémoire sur l’autoconstruction représentait pour moi à la fois une quête des origines mais aussi un regard vers l’avenir. Je me suis attelé à questionner cette maison qui constitue un repère familial et une partie de mon histoire avec mes yeux d’architecte adulte, et à travers cette enquête j’ai exploré quelle place cette pratique constructive pourrait occuper dans ma vie professionnelle.
 
----
+# Informations préalables
+J’ai choisi, pour mes entretiens retranscrits en annexe, de ne communiquer ni les noms de famille ni les lieux de résidence de toutes les personnes qui m’ont accordé de leur temps. Certains prénoms ont été modifiés dans un souci de discrétion.
+En ce qui concerne les architectes et professionnels du bâtiment, j’ai considéré que leur statut les rendait connus et ai donc indiqué leur nom en entier.
 
-<- [Sommaire](0.0-sommaire) - [Introduction](0.2-intro) ->
+## Remerciements
+Je remercie Stéphane Hanrot et Marion Serre qui m’ont patiemment suivi et conseillé tout au long de ce travail. Je remercie également toutes les personnes qui ont accepté de prendre de leur temps pour partager leurs expériences avec moi, sans qui je n’aurais pas pu faire aboutir ce travail. Merci à Laurent pour sa lucidité et son travail de relecture. Je remercie également Mona, Marie-Claude, Clément et mes autres lecteurs et relecteurs pour leurs temps précieux. Enfin, merci à mes amis et à ma famille pour leur soutien tout au long de ce semestre.
 
+>La suite : [Introduction](0.2-intro)
