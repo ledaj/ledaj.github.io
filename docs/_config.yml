@@ -28,7 +28,7 @@ instagram_username: ""
 github_username: ledaj
 
 # Build settings
-theme: midnight
+theme: minima
 full-width: true
 plugins:
   - jekyll-feed
