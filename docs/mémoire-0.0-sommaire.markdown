@@ -42,3 +42,5 @@ This study explored and described which position could take an architect involve
 # Informations préalables
 J’ai choisi, pour mes entretiens retranscrits en annexe, de ne communiquer ni les noms de famille ni les lieux de résidence de toutes les personnes qui m’ont accordé de leur temps. Certains prénoms ont été modifiés dans un souci de discrétion.
 En ce qui concerne les architectes et professionnels du bâtiment, j’ai considéré que leur statut les rendait connus et ai donc indiqué leur nom en entier.
+
+> [Avant-propos]
