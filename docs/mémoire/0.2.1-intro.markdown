@@ -1,0 +1,14 @@
+---
+layout: page
+---
+> **Quel rôle pour l’architecte dans des processus d’autoconstruction ?**
+>
+>[Sommaire](0.0-sommaire)
+
+# Introduction
+Le fait de réaliser son propre habitat est une pratique intemporelle et on la trouve sous de nombreuses formes partout dans le monde. Toutefois elle ne porte ce nom que depuis peu.
+Selon le dictionnaire Larousse, l’autoconstruction est *“la construction par quelqu’un de sa propre maison”*. 
+
+Mediadico[^1] nuance en expliquant que c’est une *“construction réalisée en tout ou partie par l’usager”*, ainsi l’autoconstructeur (celui qui autoconstruit, l’usager donc) peut se faire aider. La définition que nous retiendrons sera celle de *“construction de sa propre maison en tout ou partie par l’usager”* ce qui permet de conserver un lien avec l’habitat individuel.
+
+[^1]: Dictionnaire numérique français, il est accessible [ici](https://www.notrefamille.com/dictionnaire/](http://www.notrefamille.com/dictionnaire/))

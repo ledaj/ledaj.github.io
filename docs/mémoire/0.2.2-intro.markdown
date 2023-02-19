@@ -1,0 +1,71 @@
+---
+layout: page
+---
+> **Quel rôle pour l’architecte dans des processus d’autoconstruction ?**
+>
+>[Sommaire](0.0-sommaire)
+
+# Qui s'est intéressé à l'autoconstruction ?
+
+## Qu’en pensent les architectes ?
+
+Les architectes ont commencé à s’intéresser à cette à partir de 1964 avec l’exposition au *Museum of Modern Arts* de Bernard Rudolfsky[^1]et elle fut appelée de manière générale l’architecture vernaculaire.
+
+[^1]: (*Architecture without architects : A Short Introduction to Non-pedigreed Architecture* au Museum of Modern Arts de New York)
+
+La rencontre des architectes de cette génération avec les faiseurs d’architecture traditionnelle a permis de mettre en valeur des techniques ancestrales et maîtrisées par les habitants locaux. C’est à travers la découverte de ces techniques et des gens qui les emploient que l’on a commencé à nommer l’autoconstruction.
+
+
+## Qui s’est intéressé aux liens entre l’architecture et les autoconstructeurs ?
+Nous nous appuyons sur le travail d’autres chercheurs. En 2013, l’architecte Albert Hassan a dressé une définition globale des autoconstructeurs et des typologies de l’autoconstruction où il examine dans chaque catégorie quels sont les enjeux et qui sont les acteurs impliqués. Il conclut son étude en proposant d’étudier plus en détail le rôle de l’architecte dans le logement autoconstruit après avoir mis en évidence que la plupart des particuliers se lançant dans l’aventure de l’autoconstruction n’ont pas à priori la connaissance de la construction ni des dangers que cela implique. L’architecte aurait donc un rôle pour aider les constructeurs qui ne disposent pas de tous les savoirs pour construire.
+
+
+Lucien Kroll, architecte, explique que les autoconstructeurs ont besoin d’architectes en ce qui concerne l’accessibilité, les réserves d’espace public, la sécurité au feu, la structure et la santé des matériaux et de l’habitation. Néanmoins, il précise que les autoconstructeurs produisent de la valeur, de la complexité, du pluralisme paysager et de la culture populaire vivante que les architectes sont incapables de créer et qu’ils devraient valoriser.[^2]
+
+[^2]: (Lucien Kroll, *Tout est paysage*, 2001, Op. Cit. p. 68 - 69)
+
+Dans *Housing : An Anarchist approach*[^3], le théoricien anarchiste Colin Ward préconise que l’architecte redescende de son piédestal et souligne que : *“Le chef de l’équipe est souvent moins expérimenté que d’autres membres de l’équipe dans d’autres domaines. Cette idée est acceptable si l’on donne la priorité aux meilleures idées et non aux idées du responsable.”*[^4]
+
+[^3]: (Colin Ward, Housing : An anarchist approach, 1976. Op. Cit.)
+
+[^4]: (“He must have a belief in what I call the non-hierarchical organisation of work. [….] That will only be accepted if it’s commonly accepted that primacy lies with the best idea and not with the senior man.” idem, p. 113 (traduction personnelle))
+
+Il va même plus loin en expliquant que l’architecte et le maçon devraient être la même personne et cite les architectes Thomas Graham Jackson *“…il n’y avait pas d’architecte au sens d’aujourd’hui ; ou plutôt tous ceux qui avaient à voir avec la construction étaient architectes.”*[^5] ou encore William Richard Lethaby : *“L’architecture est une compétence et une sensibilité humaine visible dans la très nécessaire activité de la construction ; Ce doit être un art vivant, progressiste et structurel, en constante adaptation à son temps et son espace.”*[^6]. Pour Colin Ward, l’architecte, le maçon et l’habitant seraient idéalement la même personne.
+
+[^5]: “Time was when ugly building was not. In those days there were no architects as we understand them; or rather everyone who had to do with buildings was an architect.” idem (traduction personnelle)
+
+[^6]: “Architecture is human skill and feeling shown in the great necessary activity of building; it must be a living, progressive, structural art, always readjusting itself to changing conditions of time and place.” ibidem (traduction personnelle)
+
+Ratia Rabemananoro propose en 2008 dans son mémoire *L’autoconstruction en France*[^7] une vision critique des mouvements collectifs d’autoconstruction et en particulier des associations Castors. Selon lui, l’autoconstruction en solitaire serait impossible, car certaines tâches requièrent l’intervention de personnes qualifiées, notamment celles qui concernent la stabilité structurelle du bâtiment. Il explique ensuite qu’aujourd’hui, avec l’apparition d’internet, des réseaux de solidarité plus performants ont vu le jour et permettent de surmonter beaucoup d’obstacles grâce aux retours d’expérience entre autoconstructeurs du monde entier tout en conservant la liberté de choix sur les solutions techniques à adopter.
+
+[^7]: (Ratia Rabemananoro, *L’autoconstruction en France*, 2008.)
+
+## La définition de nouveaux rôles
+
+Yona Friedman dans son livre *L’architecture de Survie*^[^8] renverse la façon dont est produit le logement aujourd’hui et postule que l’habitant est seul capable de bien réaliser sa maison. Il propose deux nouveaux rôles pour l’architecte, radicalement différents de ceux qu’il possède aujourd’hui :
+
+[^8]: [Yona Friedman, *L’architecture de survie*, 1977]
+
+Premièrement, celui de *grammairien-enseignant de langage architectural*^[^9] chargé d’apprendre aux non-professionnels comment concevoir leurs espaces à partir d’un langage architectural simple. Deuxièmement, celui de conseiller en architecture qui, tel un médecin, dispenserait aux habitants-constructeurs des conseils lors de consultations payantes.
+
+[^9]: [Cf. idem, Op. Cit. p. 58]
+
+Ratia Rabemananoro ne mentionne pas les architectes dans son mémoire mais en suggérant que les autoconstructeurs peuvent plus ou moins bien gérer d’eux-mêmes toutes les étapes du projet, sa conclusion pourrait faire écho à la proposition de Yona Friedman de faire de l’architecte un conseiller. On pourrait l’inclure dans cette catégorie des ressources mobilisables par les autoconstructeurs afin de surmonter les obstacles de la construction demanière autonome. Qui de plus qualifié qu’un expert de la réalisation de projet pour assister un autoconstructeur dans sa tâche ?
+
+Enfin, Claire Guyet a écrit en 2014 un mémoire intitulé *Quel rôle pour l'architecte dans l'autoconstruction ?*[^10] qui dresse une typologie des postures d’architectes vis-à-vis de la pratique autoconstructive. Elle définit 5 catégories d’architectes en rapport avec les autoconstructeurs :
+• *Les théoriciens* sont ceux qui étudient le phénomène ;
+• *Les vendeurs de plans* ;
+• *Les constructeurs de kit* comme Jean Prouvé ou Walter Segal ;
+• *Les membres associatifs* à l’instar des Compaillons ;
+• *Les architectes humanitaires* comme le Rural Studio.
+
+[^10]: (Cf. Claire Guyet, *Quelle place pour l’architecte dans l’autoconstruction ?* 2014)
+
+Toutefois, ces catégories envisagent l’architecte sous l’angle de son rapport à l’autoconstruction en tant que thématique et pas forcément de la collaboration effective que peut avoir un architecte avec une famille souhaitant autoconstruire sa maison. Nous nous demanderons dans cette étude quelle place l’architecte peut occuper dans des contextes concrets d’autoconstruction.
+
+## Des profils très variés
+
+La diversité des cas d’autoconstructions individuelles rend difficile leur classement en catégories. Ainsi, on peut se demander comment comparer des cas qui par nature sont distincts.
+Fort heureusement, il existe des lois fondamentales qui régissent la construction quel que soit son type. Ainsi que des étapes clés incontournables et ce, quel que soit le projet de vie que veut concrétiser l’autoconstructeur à travers la construction de sa maison.
+
+À chacune de ces étapes les autoconstructeurs sont confrontés à des problèmes qui sont en fait des problèmes typiques de la réalisation d’un projet de construction. Et ils devront trancher à chaque étape en faveur de la solution qui leur parait la plus appropriée. Ce jugement de valeur, nous le retrouvons aussi dans la figure de l’architecte ; c’est le coeur de son métier, c’est ce qui détermine sa *compétence*.
