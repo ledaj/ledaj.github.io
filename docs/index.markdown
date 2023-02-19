@@ -4,3 +4,8 @@
 
 layout: home
 ---
+# Hello World !
+
+Je m'appelle Rémi. Bienvenue sur mon site.
+
+
