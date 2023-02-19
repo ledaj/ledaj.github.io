@@ -22,7 +22,7 @@ This study explored and described which position could take an architect involve
 
 # Sommaire
 
-- [Avant-propos](0.1-avant-propos)
+- [Avant-propos](mémoire/0.1-avant-propos)
 - Introduction
 - I. Quelle place pour l’architecte aujourd’hui dans les processus d’autoconstruction - Études de cas
 - I.1. Années 1970 : Études de cas
@@ -46,4 +46,4 @@ J’ai choisi, pour mes entretiens retranscrits en annexe, de ne communiquer ni 
 En ce qui concerne les architectes et professionnels du bâtiment, j’ai considéré que leur statut les rendait connus et ai donc indiqué leur nom en entier.
 
 ---
- [Avant-propos](0.1-avant-propos) ->
+ [Avant-propos](mémoire/0.1-avant-propos) ->
