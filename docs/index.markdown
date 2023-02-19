@@ -8,7 +8,7 @@ order: 1
 
 Je m'appelle Rémi. 
 
-Je fais des projets architecturaux et urbains et j'écris ici : [MOA Architecture](https://www.moa-architecture.com)
+Je fais des projets architecturaux et urbains et j'écris ici : [MOA Architecture](https://www.moa-architecture.com)
 
 Je suis plutôt actif sur ces réseaux : [instagram](https://www.instagram.com/jadagramme/), [mastodon](https://eldritch.cafe/@ledaj), [linkedin](https://www.linkedin.com/in/remi-eljadaoui/) et [senscritique](https://www.senscritique.com/Le_Daj). 
 
