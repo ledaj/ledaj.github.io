@@ -2,17 +2,17 @@
 layout: page
 title: About
 permalink: /about/
+full-width: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Je m'appelle Rémi.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Je fais des projets architecturaux et urbains et j'écris ici : [MOA Architecture](https://www.moa-architecture.com)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Je suis plutôt actif sur ces réseaux : [instagram](https://www.instagram.com/jadagramme/), [mastodon](https://eldritch.cafe/@ledaj), [linkedin](https://www.linkedin.com/in/remi-eljadaoui/) et [senscritique](https://www.senscritique.com/Le_Daj). 
+
+Ah, et j'ai écrit un mémoire sur l'autoconstruction pour [mieux comprendre à quoi servent les architectes](https://issuu.com/remieljadaoui/docs/160224_m__moire_-_quel_r__le_pour_l). 
+
+[//]: (À toutes fins utiles, tu peux me joindre à : eljadaoui *point* remi *at* gmail *point* com)
 
 
-[jekyll-organization]: https://github.com/jekyll
