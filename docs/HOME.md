@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hello World"
-permalink: /Home
+permalink: /home
 ---
 Je m'appelle Rémi.
 
