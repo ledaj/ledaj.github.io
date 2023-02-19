@@ -2,6 +2,7 @@
 layout: page
 title: "Hello World"
 permalink: /home
+full-width: true
 ---
 Je m'appelle Rémi.
 
