@@ -1,0 +1,58 @@
+---
+layout: page
+---
+> **Quel rôle pour l’architecte dans des processus d’autoconstruction ?**
+>
+>[Sommaire](0.0-sommaire)
+
+# Cadre du sujet
+
+L’étude se concentre sur le contexte français, et en particulier sur la réalisation de maisons individuelles, que ce soit *ex nihilo* ou en réhabilitation, à une époque récente.
+Travailler sur l’autoconstruction en France m’intéresse car, dans le contexte de ce pays, la pratique semble représenter un paradoxe.
+
+La France est un des pays les plus riches parmi les puissances occidentales. C’est un pays capitaliste financier et industrialisé qui produit massivement du logement standardisé fabriqué par une industrie de spécialistes aux rôles bien répartis. La France est aussi un des pays qui contribue le plus aux programmes de développement pour les pays pauvres. Elle contribue notamment en 2005 à hauteur de 6 millions d’euro au Fonds des Nations Unies pour la Population[^1] et à 5,59 % annuels du budget total de l’organisation des Nations Unies (soit 8,5 milliards d’euro).[^2]
+
+[^1]: (Cf. Site officiel de l’UNFPA : http://www.unfpa.org/funds-and-funding)
+
+[^2]: (Cf. le site de l’ambassade française à l’ONU : http://www.franceonu.org/Le-financement-de-l-ONU-8604)
+
+Pourtant dans ce même pays, l’autoconstruction est populaire auprès des élites intellectuelles françaises concernées bien qu’elle soit une pratique marginale (3 % des constructions annuelles selon Consoglobe).[^3] On peut citer de nombreux professeurs des grandes écoles des disciplines urbaines en France, notamment Patrick Bouchain, Gilles Clément (titulaire d’une chaire annuelle au Collège de France en 2011) ou encore Jean-Paul Loubes. Mais aussi beaucoup d’associations et de collectifs d’étudiants et de jeunes diplômés sensibles à ces questions.
+
+[^3]: (Article : https://www.consoglobe.com/autoconstruction-un-reve-qui-devient-accessible-cg/ Toutefois, il est à l’heure actuelle impossible de recenser précisément le nombre d’autoconstructeurs. Les seuls qui seraient en mesure de calculer cette donnée sont les banques qui prêtent aux autoconstructeurs.)
+
+Ainsi tout en finançant le dédéveloppement à travers le monde d’une architecture basée sur une production industrielle lourde, nos penseurs s’inspirent de la ville informelle des pays que l’on est supposé aider pour imaginer nos pratiques de demain.
+
+D’autre part le contexte français me semble propice au développement de l’autoconstruction. La population est bien instruite, l’accès aux livres et à internet est facile. La population française est de plus en plus sensible à l’écologie et aux économies du partage. Les AMAP[^4] et les *Fab Labs* fleurissent sur le territoire ces dernières années. De plus, les Français sont les plus bricoleurs de l’Union Européenne selon des sondages européens. Nous dépensons en moyenne 1060 € par an dans l’amélioration de nos logements, tout en étant 62 % de la population à considérer le bricolage comme un loisir selon un sondage IFOP[^5]. Nous subissons également une crise économique rude et durée installée. Toutes ces conditions me semblent propices à une augmentation du nombre d’autoconstructeurs en France dans les années à venir.
+
+[^4]: (Associations pour le Maintien d’une Agriculture Paysanne)
+
+[^5]: (*Freins et motivations des Français face au bricolage*, Étude Ifop pour Castorama, 31 mai 2011)
+
+L’étude de l’autoconstruction de l’habitat individuel me semble être la bonne échelle pour étudier cette pratique. D’une part, les différents acteurs du processus d’autoconstruction sont facilement identifiables et d’autre part l’échelle modeste de ces projets devrait me permettre d’obtenir de la part des acteurs engagés des retours d’expérience plus complets de leur aventure autoconstructive.
+
+Le choix de prendre également en compte l’autoréhabilitation dans ma définition du cadre d’étude est motivée par le fait qu’il s’agit d’une pratique courante. Le Réseau des collectivités Territoriales pour une Économie Solidaire estime à partir d’un rapport de l’Agence Nationale de l’Habitat qu’entre 700 et 1000 chantiers d’autoréhabilitation sont initiés chaque année[^6]. Cela me semble assez conséquent et mérite donc que cela soit pris en compte.
+
+[^6]: (Julien Rémy, *“L’auto-réhabilitation accompagnée : Un outil technique au service d’une « mise en mouvement » des populations défavorisées”* dans Recherche Sociale n°183, Juillet-Septembre 2007, p. 4)
+
+C’est en tant que jeune architecte que je souhaite aborder ce sujet. C’est-à-dire avec une vision assez globale sur l’acte de construire dans ses dimensions historiques, théoriques, techniques, conceptuelles, logistiques, etc. Je ne suis pas un spécialiste mais je me réserve le droit de convoquer des outils venus d’autres disciplines à l’appui de ma réflexion et de l’aide pour les utiliser, notamment l’outil de l’entretien venu de la sociologie.
+
+## Nous ne parlerons pas de…
+Nous ne parlerons pas de l’architecte *vendeur de plans*[^7]
+
+[^7]: (Selon Claire Guyet, déjà citée plus haut. Voir p.10, note n°11)
+
+Même s’il intervient effectivement dans des processus d’autoconstruction, son rôle nous semble assez évident et peu intéressant.
+
+Il résout les problèmes de conception et de technique via un système fini d’éléments combinatoires. Il vend des kits ou des plans préconçus. Cela nous semble passer à côté de toute la dimension paysagère et personnelle d’un projet individuel et unique. Nous parlerons plutôt d’architecture in situ.
+
+Nous ne parlerons pas non plus des autoconstructions collectives d’équipements urbains par des associations. Bien que ce soit une forme importante d’autoconstruction, elle ne répond pas à la question de l’émancipation personnelle et du projet de vie individuel qui nous intéresse.
+
+L’objectif est de mettre en évidence le rôle de l’architecte dans des processus d’autoconstruction, à l’échelle de la réalisation d’une maison individuelle en France.
+
+## Présentation de l’argumentaire
+
+Afin de trouver quel pourrait être le rôle de l’architecte dans des processus d’autoconstruction contemporains, nous allons commencer par étudier en détail nos cas d’étude et en faire ressortir les éléments structurants concernant le rôle de l’architecte.
+
+Ensuite nous prendrons un peu de distance et nous nous questionnerons sur la légitimité de la présence d’un architecte dans ces projets et enfin nous analyserons comment sont définis et articulés les rôles entre les protagonistes dans les projets d’autoconstruction.
+
+>La suite : [I. Quelle place pour l'architecte aujourd'hui dans les processus d'autoconstruction - Études de cas](0.1.0-études de cas)

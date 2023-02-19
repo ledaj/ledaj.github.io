@@ -17,30 +17,24 @@ This study explored and described which position could take an architect involve
 
 ## Sommaire
 - [Avant-propos](0.1-avant-propos)
-- Introduction
-- I. Quelle place pour l’architecte aujourd’hui dans les processus d’autoconstruction - Études de cas
-- I.1. Années 1970 : Études de cas
-- I.2. Années 2000 – 2010 : Études de cas
-- I.3. Rencontre avec des professionnels de la construction
+- [Introduction](0.2.0-intro)
+- [I. Quelle place pour l’architecte aujourd’hui dans les processus d’autoconstruction - Études de cas](1.0-Etudes-de-cas)
+	- I.1. Années 1970 : Études de cas
+	- I.2. Années 2000 – 2010 : Études de cas
+	- I.3. Rencontre avec des professionnels de la construction
 - II. Dégagement de types d’autoconstruction à partir des cas d’étude
-- II.1. L’autoconstruction radicale
-- II.2. L’accompagnement au projet d’autoconstruction
-- II.3. Le cas de Léa : un cas d’autoconstruction hybride
+	- II.1. L’autoconstruction radicale
+	- II.2. L’accompagnement au projet d’autoconstruction
+	- II.3. Le cas de Léa : un cas d’autoconstruction hybride
 - III. Du rôle de l’architecte dans les processus d’autoconstruction
-- III.1. L’architecte a-t-il une place légitime dans les chantiers d’autoconstruction ?
-- III.2. La définition des rôles dans les projets d’autoconstruction
-- Potentiels et limites de l’accompagnement à l’autoconstruction
+	- III.1. L’architecte a-t-il une place légitime dans les chantiers d’autoconstruction ?
+	- III.2. La définition des rôles dans les projets d’autoconstruction
+- Conclusion - Potentiels et limites de l’accompagnement à l’autoconstruction
 - Bibliographie
 - Table des figures
 - Liste des annexes
-- Verbatim d’entretiens
-
-
 
 ## Mots-Clés
 Autoconstruction, Architecte, Compétences
 
-
----
-
- [Avant-propos](0.1-avant-propos) ->
+> La suite : [Avant-propos](0.1-avant-propos)

@@ -37,4 +37,4 @@ Je remercie Stéphane Hanrot et Marion Serre qui m’ont patiemment suivi et con
 J’ai choisi, pour mes entretiens retranscrits en annexe, de ne communiquer ni les noms de famille ni les lieux de résidence de toutes les personnes qui m’ont accordé de leur temps. Certains prénoms ont été modifiés dans un souci de discrétion.
 En ce qui concerne les architectes et professionnels du bâtiment, j’ai considéré que leur statut les rendait connus et ai donc indiqué leur nom en entier.
 
->La suite : [Introduction](0.2-intro)	
+>La suite : [Introduction](0.2.0-intro)	
