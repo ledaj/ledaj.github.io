@@ -30,8 +30,7 @@ Faire un mémoire sur l’autoconstruction représentait pour moi à la fois une
 
 ---
 
-
-<-[Sommaire](0.0-sommaire) | [Introduction](0.2-intro) ->
+<- [Sommaire](0.0-sommaire) - [Introduction](0.2-intro) ->
 
 
 --- 
