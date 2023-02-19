@@ -1,0 +1,44 @@
+---
+layout: page
+Title: Quel rôle pour l’architecte dans des processus d’autoconstruction ?
+---
+
+Rémi El Jadaoui étudiant
+Stéphane Hanrot et Marion Serre encadrants
+Séminaire S9 AVT — 2015 – 2016
+
+
+## Remerciements
+Je remercie Stéphane Hanrot et Marion Serre qui m’ont patiemment suivi et conseillé tout au long de ce travail. Je remercie également toutes les personnes qui ont accepté de prendre de leur temps pour partager leurs expériences avec moi, sans qui je n’aurais pas pu faire aboutir ce travail. Merci à Laurent pour sa lucidité et son travail de relecture. Je remercie également Mona, Marie-Claude, Clément et mes autres lecteurs et relecteurs pour leurs temps précieux. Enfin, merci à mes amis et à ma famille pour leur soutien tout au long de ce semestre.
+## Mots-Clés
+Autoconstruction, Architecte, Compétences
+## Résumé
+Cette recherche se concentre sur la position de l’architecte dans des processus d’autoconstruction. L’objectif a été de documenter à partir de cas concrets les étapes cruciales et les difficultés du processus d’autoconstruction puis de développer une méthode d’analyse pour mettre en évidence le rôle de l’architecte parmi les autres acteurs de ce processus. Grâce à une méthode graphique inspirée du travail de John Habraken sur les Niveaux, et appliquée aux compétences impliquées dans la réalisation d’un processus d’autoconstruction, l’étude propose un modèle graphique d’analyse des interactions architectes / autoconstructeurs. À travers l’interview des autoconstructeurs et des architectes impliqués, nous avons pu mettre en évidence l’existence d’un type particulier de collaboration architecte / autoconstructeur, que cette recherche appelle l’accompagnement à l’autoconstruction. L’étude poursuit en explorant les mécanismes qui sous-tendent les projets d’autoconstruction et conclut en questionnant la législation actuelle qui entrave le développement potentiel de ces collaborations.
+
+## Abstract
+This study explored and described which position could take an architect involved in self-build housing processes. The study’s objectives were to document the process and difficulties of self-build housing processes and to develop a method of analysing an architect’s position amongst other actors involved in this kind of processes. A graphic method based on the work of John Habraken on Levels applied to the skills required during the self-building process allowed to develop a model for graphic anlysis of architects / self-builders interactions. This graphic model was then applied on real cases of self-build housing through interviews of builders and architects. This study has enabled the discovery of a specific type of architect / self-builder collaboration called the self-build housing support type. The study goes on exploring the hidden rules of self-build processes and concludes by questioning today’s law that impedes further devlopment of these architect / self-builder interactions.
+
+# Sommaire
+
+- Avant-propos
+- Introduction
+- I. Quelle place pour l’architecte aujourd’hui dans les processus d’autoconstruction - Études de cas
+- I.1. Années 1970 : Études de cas
+- I.2. Années 2000 – 2010 : Études de cas
+- I.3. Rencontre avec des professionnels de la construction
+- II. Dégagement de types d’autoconstruction à partir des cas d’étude
+- II.1. L’autoconstruction radicale
+- II.2. L’accompagnement au projet d’autoconstruction
+- II.3. Le cas de Léa : un cas d’autoconstruction hybride
+- III. Du rôle de l’architecte dans les processus d’autoconstruction
+- III.1. L’architecte a-t-il une place légitime dans les chantiers d’autoconstruction ?
+- III.2. La définition des rôles dans les projets d’autoconstruction
+- Potentiels et limites de l’accompagnement à l’autoconstruction
+- Bibliographie
+- Table des figures
+- Liste des annexes
+- Verbatim d’entretiens
+
+# Informations préalables
+J’ai choisi, pour mes entretiens retranscrits en annexe, de ne communiquer ni les noms de famille ni les lieux de résidence de toutes les personnes qui m’ont accordé de leur temps. Certains prénoms ont été modifiés dans un souci de discrétion.
+En ce qui concerne les architectes et professionnels du bâtiment, j’ai considéré que leur statut les rendait connus et ai donc indiqué leur nom en entier.

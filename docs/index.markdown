@@ -2,9 +2,6 @@
 layout: page
 order: 1
 ---
-
-# Hello World !
-
 Je m'appelle Rémi. 
 
 Je fais des projets architecturaux et urbains et j'écris ici : [MOA Architecture](https://www.moa-architecture.com)
