@@ -11,11 +11,7 @@ Je suis plutôt actif sur ces réseaux : [instagram](https://www.instagram.com
 Ah, et j'ai écrit un mémoire sur l'autoconstruction pour mieux comprendre à quoi servent les architectes. 
 Dispo [ici](mémoire/0.0-sommaire) sur le site ou bien [par-là](https://issuu.com/remieljadaoui/docs/160224_m__moire_-_quel_r__le_pour_l) en pdf sur issuu.
 
-
-
 ---
-
-
 
 Mes amis font des trucs chouettes :
 - [Daniel Akpan](https://danielakpan.com/)

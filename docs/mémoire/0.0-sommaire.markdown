@@ -4,9 +4,9 @@ Title: Quel rôle pour l’architecte dans des processus d’autoconstruction ?
 ---
 
 >Rémi El Jadaoui étudiant
-
+>
 >Stéphane Hanrot et Marion Serre encadrants
-
+>
 >Séminaire S9 AVT — 2015 – 2016
 
 
@@ -22,7 +22,7 @@ This study explored and described which position could take an architect involve
 
 # Sommaire
 
-- [Avant-propos](mémoire/0.1-avant-propos)
+- [Avant-propos](0.1-avant-propos)
 - Introduction
 - I. Quelle place pour l’architecte aujourd’hui dans les processus d’autoconstruction - Études de cas
 - I.1. Années 1970 : Études de cas
