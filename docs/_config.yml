@@ -21,11 +21,11 @@
 title: Rémi el Jadaoui
 email: eljadaoui.remi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Le site perso de Rémi el Jadaoui. De l'architecture, des bêtises et des bisous.
+    Le site perso de Rémi el Jadaoui.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  ""
+instagram_username: ""
+github_username: ledaj
 
 # Build settings
 theme: minima
