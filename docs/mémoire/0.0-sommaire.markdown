@@ -1,6 +1,5 @@
 ---
-layout: page
-Title: Quel rôle pour l’architecte dans des processus d’autoconstruction ?
+layout: post
 ---
 
 # Quel rôle pour l’architecte dans des processus d’autoconstruction ?
