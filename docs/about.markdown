@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-full-width: true
 ---
 
 Je m'appelle Rémi.
