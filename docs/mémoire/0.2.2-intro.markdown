@@ -42,7 +42,7 @@ Le premier outil est une grille inspirée des travaux de John Habraken sur les n
 
 [^5]: (John Habraken, “The Uses of Levels”, dans l’Open House International, Vol. 27 n°2, 2002. Disponible sur son site : [http://www.habraken.com/html/downloads/the_uses_of_levels.pdf](http://www.habraken.com/html/downloads/the_uses_of_levels.pdf))
 
-![Figure 1 - Exemple: Compétences et responsabilités des acteurs d'un projet type](/figure1.png "Compétences et responsabilités des acteurs d'un projet type")
+![Figure 1 - Exemple: Compétences et responsabilités des acteurs d'un projet type](/figure1.jpg "Compétences et responsabilités des acteurs d'un projet type")
 
 Le deuxième outil est un diagramme de Venn à quatre courbes. Chacune représente la quantité d’étapes auxquelles a participé une de nos quatre catégories. Leurs intersections représentent les étapes réalisées en collaboration. Cela permettra de mettre en évidence les chantiers où une véritable collaboration a eu lieu.
 
