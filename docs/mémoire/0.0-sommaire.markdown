@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 ---
 
-# Quel rôle pour l’architecte dans des processus d’autoconstruction ?
+> **Quel rôle pour l’architecte dans des processus d’autoconstruction ?**
 
 Le mémoire présenté sous forme web ci-dessous à été réalisé dans le cadre de mon master 2 à l'[ENSA Marseille](https://www.marseille.archi.fr/) en 2015-2016. Je l'ai rédigé au sein du département *AVT - Architecture, Ville et Territoire* sous la direction de Stéphane Hanrot et de Marion Serre. 
 

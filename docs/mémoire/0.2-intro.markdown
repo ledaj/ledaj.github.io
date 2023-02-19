@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+> **Quel rôle pour l’architecte dans des processus d’autoconstruction ?**
+>
+>[Sommaire](0.0-sommaire)
 
 # Introduction
 Le fait de réaliser son propre habitat est une pratique intemporelle et on la trouve sous de nombreuses formes partout dans le monde. Toutefois elle ne porte ce nom que depuis peu.
